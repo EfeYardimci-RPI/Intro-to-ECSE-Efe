@@ -17,4 +17,4 @@ Try all combinations of two inputs
 
 ## External hardware
 
-
+LED
